@@ -90,7 +90,7 @@ $ ng serve
 
 ### Authors
 
-* [Zhelyan Radoev](https://github.com/jeliozver)
+* [Himanshi yadav](https://github.com/Himanshi1531)
 
 ### License
 ----
